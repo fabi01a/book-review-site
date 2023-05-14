@@ -1,4 +1,4 @@
-# Book Review Site
+<!-- # Book Review Site
 
 We will use the skills we've learned to build pages for an online book review website.
 
@@ -8,7 +8,6 @@ We will use the skills we've learned to build pages for an online book review we
 - Practice linking local pages and remote pages.
 - Practice creating an external stylesheet.
 - Practice selecting elements and applying styles using CSS. 
-
 
 ## Wave 1 - Creating Semantic HTML
 ### The Online Book Review Site
@@ -59,7 +58,6 @@ What sectioning/semantic tags did you use and where?
 -  header
 -  footer
 
-
 Make adjustments where it seems appropriate.  
 
 ## Wave 2 - Adding CSS
@@ -80,7 +78,6 @@ In the style sheet, practice the following:
 -  Display a different color when the mouse rolls over the navigational links
 -  Hide the bullet-points of the unordered lists in the site  
 
-
 Page Specific Styling:
 -  `index.html`
     -  Make all the images the same width
@@ -95,4 +92,4 @@ When you are finished, consider reviewing your changes with a classmate.
 
 ## Extensions
 - Create another page for a book you have found useful and link it in the navigation of the site
-- Import a new font from [Google Fonts](https://fonts.google.com/) to apply to heading elements
+- Import a new font from [Google Fonts](https://fonts.google.com/) to apply to heading elements -->
