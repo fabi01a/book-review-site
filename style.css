@@ -1,0 +1,46 @@
+body{
+    background-color: azure;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+footer{
+    border-color: midnightblue;
+    border: solid;
+    background-color: aliceblue;
+}
+
+h1 {
+    border-color: midnightblue;
+    border: solid;
+    background-color: rgb(91, 150, 233);
+}
+
+img {
+    border: 2px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 240px;
+}
+
+img:hover {
+    box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}
+
+.image-gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 5px;
+}
+
+.image-gallery > li {
+    flex-basis: 200px; /* width: 350px; */
+}
+
+.image-gallery li img {
+    object-fit: cover;
+    max-width: 100%;
+    height: auto;
+    vertical-align: middle;
+    border-radius: 5px;
+}
